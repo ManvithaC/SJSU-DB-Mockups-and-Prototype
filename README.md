@@ -1,4 +1,4 @@
-# Website_Wireframes
+# SJSU-DB-Mockups-and-Prototype
 
 Coursework as part of CMPE 280
 
